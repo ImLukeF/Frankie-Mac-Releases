@@ -3,19 +3,18 @@
     <channel>
         <title>Frankie</title>
         <item>
-            <title>1.1.3</title>
-            <pubDate>Mon, 03 Aug 2026 15:35:37 +1000</pubDate>
+            <title>1.1.4</title>
+            <pubDate>Mon, 03 Aug 2026 17:22:03 +1000</pubDate>
             <link>https://portal.fornieriazar.com.au/</link>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.1.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[## What's new
 
-- Brings the current list-first Listing Manager and property-level vendor report workflow into the latest signed Mac build.
-- Keeps Frankie aligned with the latest Portal workflows.
-- Includes the latest stability and updater improvements.
+- Fixes **Choose PDF** in the Mac vendor-report importer so the native file picker now opens correctly.
+- Supports selecting the required REA report and optional Domain report before Frankie autofills the editable draft.
 ]]></description>
-            <enclosure url="https://github.com/ImLukeF/Frankie-Mac-Releases/releases/download/v1.1.3/Frankie-1.1.3.zip" length="4446628" type="application/octet-stream" sparkle:edSignature="UNldv1mNsQ7f7sinNSmZsSZsL1Rg42oEAtQWS9qJiZ4XSxmsQFs/EP9cpuGcd4+gjs719jFApa2VXcMPbdb7Bg=="/>
+            <enclosure url="https://github.com/ImLukeF/Frankie-Mac-Releases/releases/download/v1.1.4/Frankie-1.1.4.zip" length="4448549" type="application/octet-stream" sparkle:edSignature="s36/vMtpWeRfYfNTQa5CI2ZY+m+s2cb0+7CJuHXxZuyCegser6sACfQcI4iCl9Rmi+m1a9uPuveUtDdWa14oBg=="/>
         </item>
     </channel>
 </rss>
