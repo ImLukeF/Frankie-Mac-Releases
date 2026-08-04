@@ -3,18 +3,18 @@
     <channel>
         <title>Frankie</title>
         <item>
-            <title>1.1.4</title>
-            <pubDate>Mon, 03 Aug 2026 17:22:03 +1000</pubDate>
+            <title>1.1.5</title>
+            <pubDate>Tue, 04 Aug 2026 11:22:34 +1000</pubDate>
             <link>https://portal.fornieriazar.com.au/</link>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>1.1.4</sparkle:shortVersionString>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[## What's new
 
-- Fixes **Choose PDF** in the Mac vendor-report importer so the native file picker now opens correctly.
-- Supports selecting the required REA report and optional Domain report before Frankie autofills the editable draft.
+- Fixes **Print / PDF** in vendor reports by opening the native macOS print sheet, including **Save as PDF**.
+- Separates the street address from the suburb, state and postcode on new and saved vendor reports.
 ]]></description>
-            <enclosure url="https://github.com/ImLukeF/Frankie-Mac-Releases/releases/download/v1.1.4/Frankie-1.1.4.zip" length="4448549" type="application/octet-stream" sparkle:edSignature="s36/vMtpWeRfYfNTQa5CI2ZY+m+s2cb0+7CJuHXxZuyCegser6sACfQcI4iCl9Rmi+m1a9uPuveUtDdWa14oBg=="/>
+            <enclosure url="https://github.com/ImLukeF/Frankie-Mac-Releases/releases/download/v1.1.5/Frankie-1.1.5.zip" length="4449522" type="application/octet-stream" sparkle:edSignature="FEBM8pdfqo06RbikJKVqzqL4HN0IEacnhjEslh773Pi6aHicbDiIeiIP2HlOHq26B8YysMhfEXbP1MFyUmqeDw=="/>
         </item>
     </channel>
 </rss>
