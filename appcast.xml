@@ -3,18 +3,20 @@
     <channel>
         <title>Frankie</title>
         <item>
-            <title>1.1.5</title>
-            <pubDate>Tue, 04 Aug 2026 11:22:34 +1000</pubDate>
+            <title>1.1.6</title>
+            <pubDate>Wed, 05 Aug 2026 15:41:17 +1000</pubDate>
             <link>https://portal.fornieriazar.com.au/</link>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>1.1.5</sparkle:shortVersionString>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.1.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[## What's new
 
-- Fixes **Print / PDF** in vendor reports by opening the native macOS print sheet, including **Save as PDF**.
-- Separates the street address from the suburb, state and postcode on new and saved vendor reports.
+- Opens Frankie’s Hitlist as the main prospecting workspace.
+- Keeps the ranked call queue aligned with web and iPhone, so everyone sees the same contacts to call.
+- Shows why each person matters now, useful talking points, and the outcome needed to move the queue forward.
+- Keeps the full follow-up table available through **All follow-ups**.
 ]]></description>
-            <enclosure url="https://github.com/ImLukeF/Frankie-Mac-Releases/releases/download/v1.1.5/Frankie-1.1.5.zip" length="4449522" type="application/octet-stream" sparkle:edSignature="FEBM8pdfqo06RbikJKVqzqL4HN0IEacnhjEslh773Pi6aHicbDiIeiIP2HlOHq26B8YysMhfEXbP1MFyUmqeDw=="/>
+            <enclosure url="https://github.com/ImLukeF/Frankie-Mac-Releases/releases/download/v1.1.6/Frankie-1.1.6.zip" length="4452845" type="application/octet-stream" sparkle:edSignature="Na739ggXMzHe84/y80l6jaS7YBsjT+stnwxFnYPQD7qAdE32fI74WKWP+X6zgRl8uL0mp9VjUtNWd0vVQRzHAg=="/>
         </item>
     </channel>
 </rss>
