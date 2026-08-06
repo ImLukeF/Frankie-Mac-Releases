@@ -3,6 +3,24 @@
     <channel>
         <title>Frankie</title>
         <item>
+            <title>1.1.8</title>
+            <pubDate>Thu, 06 Aug 2026 15:06:59 +1000</pubDate>
+            <link>https://portal.fornieriazar.com.au/</link>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.1.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[## What's new
+
+- **Computer Run** — Frankie can now work your Mac step by step instead of only pointing at the screen. Press **Cmd–Shift–R** (or *Run a computer task…* in the menu bar), say what you want done, and it opens apps, clicks, types, uses menus and search fields, scrolls, and collects what it finds. Live activity, steering, Pause and Stop stay on screen the whole time.
+- Runs only ever start when you start one, and they are capped at 40 steps and 8 minutes. Frankie stops itself if a step repeats without making progress.
+- Frankie refuses the consequential steps outright, no matter how a task is worded: no deleting or emptying the trash, buying, paying, sending, publishing, transferring, installing, restarting, signing out, or confirming a system prompt. It never types into password, card or verification fields, and it only opens public web addresses.
+- Hands-free conversation moved to **Cmd–Shift–H**. It was on Cmd–Shift–3, which macOS reserves for screenshots, so that shortcut never actually worked — the three quick **Control** taps still do.
+
+Computer Run needs Screen Recording and Accessibility permission the first time you use it, and a connected Codex provider in Frankie settings.
+]]></description>
+            <enclosure url="https://github.com/ImLukeF/Frankie-Mac-Releases/releases/download/v1.1.8/Frankie-1.1.8.zip" length="4690022" type="application/octet-stream" sparkle:edSignature="iDES2I5/l0qzvXAENzk5yjXY1jJVqQfZFE101sIUeEKWbfJuGmZ8VeS5LEkjXoJqEOj4G4cKc04jNgnasDSWAA=="/>
+        </item>
+        <item>
             <title>1.1.7</title>
             <pubDate>Thu, 06 Aug 2026 13:57:05 +1000</pubDate>
             <link>https://portal.fornieriazar.com.au/</link>
