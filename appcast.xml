@@ -3,20 +3,21 @@
     <channel>
         <title>Frankie</title>
         <item>
-            <title>1.1.6</title>
-            <pubDate>Wed, 05 Aug 2026 15:41:17 +1000</pubDate>
+            <title>1.1.7</title>
+            <pubDate>Thu, 06 Aug 2026 13:57:05 +1000</pubDate>
             <link>https://portal.fornieriazar.com.au/</link>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>1.1.6</sparkle:shortVersionString>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.1.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[## What's new
 
-- Opens Frankie’s Hitlist as the main prospecting workspace.
-- Keeps the ranked call queue aligned with web and iPhone, so everyone sees the same contacts to call.
-- Shows why each person matters now, useful talking points, and the outcome needed to move the queue forward.
-- Keeps the full follow-up table available through **All follow-ups**.
+- Frankie now remembers the last few minutes of your voice conversation, so follow-ups like "what about that one?" just work. Only text context is kept — screenshots stay ephemeral — and it clears when you sign out.
+- Ask to be walked through anything on screen and Frankie guides you one step at a time, keeps its on-screen pointers up while you act, and checks your progress from a fresh look at the screen.
+- The active walkthrough step lives in the notch with **Done — next** and stop controls.
+- When you explicitly ask, Frankie can click a visible control or type into the current field — always shown in a native approval prompt first, never automatically.
+- The caret now shows a completion tick when Frankie finishes a task.
 ]]></description>
-            <enclosure url="https://github.com/ImLukeF/Frankie-Mac-Releases/releases/download/v1.1.6/Frankie-1.1.6.zip" length="4452845" type="application/octet-stream" sparkle:edSignature="Na739ggXMzHe84/y80l6jaS7YBsjT+stnwxFnYPQD7qAdE32fI74WKWP+X6zgRl8uL0mp9VjUtNWd0vVQRzHAg=="/>
+            <enclosure url="https://github.com/ImLukeF/Frankie-Mac-Releases/releases/download/v1.1.7/Frankie-1.1.7.zip" length="4526805" type="application/octet-stream" sparkle:edSignature="lrFha/5m5rtI0GtEKLfrtYi0sXuaO1dfNqAvlSSsTn2d5wO+ikBnAQajxe5vOjcAZwG0GjhVAvfIMYsrlHslBQ=="/>
         </item>
     </channel>
 </rss>
