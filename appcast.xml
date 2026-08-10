@@ -3,6 +3,21 @@
     <channel>
         <title>Frankie</title>
         <item>
+            <title>1.1.12</title>
+            <pubDate>Sun, 10 Aug 2026 19:50:00 +1000</pubDate>
+            <link>https://portal.fornieriazar.com.au/</link>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.1.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## What's new
+
+- Computer Runs can now be sized to the job: Frankie picks a step and time budget per run (up to 200 steps or 45 minutes, defaults unchanged at 40 steps / 8 minutes), and the approval message always states the limits you're agreeing to.
+- Ask for several things at once: multiple approved runs queue on this Mac and execute one after another, each posting its own result back to chat. A run you start locally keeps priority.
+- Runs that stop reporting (for example if the Mac sleeps or Frankie quits mid-run) are now failed cleanly on the server so chat is told instead of waiting forever.
+]]></description>
+            <enclosure url="https://github.com/ImLukeF/Frankie-Mac-Releases/releases/download/v1.1.12/Frankie-1.1.12.zip" length="251348868" type="application/octet-stream" sparkle:edSignature="p3xodeMvOyA3PASb0XLGh0d1w7QKoYNx/RufFQLluPQ3f9V8oJ6DW6fElmvI8SKT8t8UTAaDkLPJ0jF5Y1LyBA=="/>
+        </item>
+        <item>
             <title>1.1.11</title>
             <pubDate>Sun, 10 Aug 2026 19:20:00 +1000</pubDate>
             <link>https://portal.fornieriazar.com.au/</link>
