@@ -3,6 +3,21 @@
     <channel>
         <title>Frankie</title>
         <item>
+            <title>1.1.11</title>
+            <pubDate>Sun, 10 Aug 2026 19:20:00 +1000</pubDate>
+            <link>https://portal.fornieriazar.com.au/</link>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.1.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## What's new
+
+- Frankie chat can now read your recent Messages conversations and threads from this Mac when you ask — for example to pull today's prospecting texts into a workspace. Reading needs Full Disk Access: System Settings → Privacy & Security → Full Disk Access → enable Frankie.
+- Frankie chat can now start a Computer Run on this Mac. Every run needs your explicit approval in chat first, keeps the same 40-step / 8-minute limits and native refusals as a locally started run, and Pause and Stop stay available here.
+- The run result and anything it collected are posted back to the chat that asked for it.
+]]></description>
+            <enclosure url="https://github.com/ImLukeF/Frankie-Mac-Releases/releases/download/v1.1.11/Frankie-1.1.11.zip" length="251343096" type="application/octet-stream" sparkle:edSignature="kAfU36M/uFD6OOAWI9zhOU6YJlGhGny/Q8Y49QIwCZVtlqpsPQb/AxO1cUjTklsWHIdrfbLxC+WVyFXCEqB3AA=="/>
+        </item>
+        <item>
             <title>1.1.10</title>
             <pubDate>Mon, 10 Aug 2026 14:38:03 +1000</pubDate>
             <link>https://portal.fornieriazar.com.au/</link>
