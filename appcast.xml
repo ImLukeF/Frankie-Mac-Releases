@@ -3,6 +3,21 @@
     <channel>
         <title>Frankie</title>
         <item>
+            <title>1.1.10</title>
+            <pubDate>Mon, 10 Aug 2026 14:38:03 +1000</pubDate>
+            <link>https://portal.fornieriazar.com.au/</link>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.1.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## What's new
+
+- Website-control requests from Frankie chat or native voice now open the built-in Chromium browser automatically.
+- Ordinary research and questions stay in chat, so the browser only appears when Frankie needs to interact with a website.
+- Browser tasks wait until Chromium is ready and keep Pause and Stop visible. Logins remain manual, and consequential website actions remain blocked.
+]]></description>
+            <enclosure url="https://github.com/ImLukeF/Frankie-Mac-Releases/releases/download/v1.1.10/Frankie-1.1.10.zip" length="251306753" type="application/octet-stream" sparkle:edSignature="mcW7i7lvdk/gLpwq23KoBrQxxSzzR9WOdt2eYJlzMKVr947/INSyUI+YF8EFFLKInFipPJItfI0TBPEzxOIcDQ=="/>
+        </item>
+        <item>
             <title>1.1.9</title>
             <pubDate>Mon, 10 Aug 2026 14:02:08 +1000</pubDate>
             <link>https://portal.fornieriazar.com.au/</link>
@@ -35,23 +50,6 @@
 Computer Run needs Screen Recording and Accessibility permission the first time you use it, and a connected Codex provider in Frankie settings.
 ]]></description>
             <enclosure url="https://github.com/ImLukeF/Frankie-Mac-Releases/releases/download/v1.1.8/Frankie-1.1.8.zip" length="4690022" type="application/octet-stream" sparkle:edSignature="iDES2I5/l0qzvXAENzk5yjXY1jJVqQfZFE101sIUeEKWbfJuGmZ8VeS5LEkjXoJqEOj4G4cKc04jNgnasDSWAA=="/>
-        </item>
-        <item>
-            <title>1.1.7</title>
-            <pubDate>Thu, 06 Aug 2026 13:57:05 +1000</pubDate>
-            <link>https://portal.fornieriazar.com.au/</link>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>1.1.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[## What's new
-
-- Frankie now remembers the last few minutes of your voice conversation, so follow-ups like "what about that one?" just work. Only text context is kept — screenshots stay ephemeral — and it clears when you sign out.
-- Ask to be walked through anything on screen and Frankie guides you one step at a time, keeps its on-screen pointers up while you act, and checks your progress from a fresh look at the screen.
-- The active walkthrough step lives in the notch with **Done — next** and stop controls.
-- When you explicitly ask, Frankie can click a visible control or type into the current field — always shown in a native approval prompt first, never automatically.
-- The caret now shows a completion tick when Frankie finishes a task.
-]]></description>
-            <enclosure url="https://github.com/ImLukeF/Frankie-Mac-Releases/releases/download/v1.1.7/Frankie-1.1.7.zip" length="4526805" type="application/octet-stream" sparkle:edSignature="lrFha/5m5rtI0GtEKLfrtYi0sXuaO1dfNqAvlSSsTn2d5wO+ikBnAQajxe5vOjcAZwG0GjhVAvfIMYsrlHslBQ=="/>
         </item>
     </channel>
 </rss>
