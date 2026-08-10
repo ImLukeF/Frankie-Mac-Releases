@@ -3,6 +3,21 @@
     <channel>
         <title>Frankie</title>
         <item>
+            <title>1.1.13</title>
+            <pubDate>Sun, 10 Aug 2026 21:20:00 +1000</pubDate>
+            <link>https://portal.fornieriazar.com.au/</link>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>1.1.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## What's new
+
+- New Permissions window (menu bar → Permissions…) showing everything Frankie can use — Microphone, Screen Recording, Accessibility, Messages sending, and Full Disk Access — each with live status and a Grant access button.
+- Full Disk Access (needed for reading Messages history) never gets a macOS prompt, so its button takes you straight to the right System Settings pane; status flips live once you switch it on.
+- Statuses refresh every couple of seconds while the window is open, so granting in System Settings shows up immediately.
+]]></description>
+            <enclosure url="https://github.com/ImLukeF/Frankie-Mac-Releases/releases/download/v1.1.13/Frankie-1.1.13.zip" length="251378476" type="application/octet-stream" sparkle:edSignature="21Thh725MiObZX1iLxwmBZ0XqVwgcyzPWBYrlia+ovuz6Mvj5lp0XEm+XZXhsdD2iqh18V/JSs2sJ4pB6lIMDg=="/>
+        </item>
+        <item>
             <title>1.1.12</title>
             <pubDate>Sun, 10 Aug 2026 19:50:00 +1000</pubDate>
             <link>https://portal.fornieriazar.com.au/</link>
