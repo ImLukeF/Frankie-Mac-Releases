@@ -3,6 +3,22 @@
     <channel>
         <title>Frankie</title>
         <item>
+            <title>1.1.9</title>
+            <pubDate>Mon, 10 Aug 2026 14:02:08 +1000</pubDate>
+            <link>https://portal.fornieriazar.com.au/</link>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.1.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## What's new
+
+- Added a built-in Chromium browser workspace inside Frankie.
+- Frankie can navigate pages, read page structure, click, type, select, scroll, and wait while you watch and steer the run.
+- Browser runs keep Pause and Stop visible, cap repeated or overlong work, and refuse passwords, payments, verification fields, downloads, permissions, private-network addresses, CAPTCHAs, and consequential actions such as sending, buying, publishing, deleting, approving, or transferring.
+- The browser is bundled into the Mac app, so this update is substantially larger than earlier releases.
+]]></description>
+            <enclosure url="https://github.com/ImLukeF/Frankie-Mac-Releases/releases/download/v1.1.9/Frankie-1.1.9.zip" length="251294189" type="application/octet-stream" sparkle:edSignature="cMCIyEw2dT6pYr+9/W3hc3V7w3MudPzb1oZjrAAQccGtw4fOEWnPR+/QW5A/OkKYcQW66W7cN0dt8ctKikjWBQ=="/>
+        </item>
+        <item>
             <title>1.1.8</title>
             <pubDate>Thu, 06 Aug 2026 15:06:59 +1000</pubDate>
             <link>https://portal.fornieriazar.com.au/</link>
