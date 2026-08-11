@@ -3,6 +3,21 @@
     <channel>
         <title>Frankie</title>
         <item>
+            <title>1.1.14</title>
+            <pubDate>Tue, 11 Aug 2026 14:19:35 +1000</pubDate>
+            <link>https://portal.fornieriazar.com.au/</link>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.1.14</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# Frankie 1.1.14
+
+- Adds **Take Over Current Task** to the menu bar and Frankie menu, with Command-Shift-T as a shortcut.
+- Frankie reads the active app, proposes the objective and next steps, and waits for confirmation before taking control.
+- Screen content is treated as evidence, not instructions. Frankie will not infer permission to send, publish, buy, delete, approve, or change security settings.
+]]></description>
+            <enclosure url="https://github.com/ImLukeF/Frankie-Mac-Releases/releases/download/v1.1.14/Frankie-1.1.14.zip" length="251487448" type="application/octet-stream" sparkle:edSignature="V7AyztWyphCAjVpqAzu45xcOpo0ARvRdjFnwLPNqmMkWWvm94N/J0QK9gYpgNq/bcDfAFX9+thNrSw4yjpf7Cw=="/>
+        </item>
+        <item>
             <title>1.1.13</title>
             <pubDate>Sun, 10 Aug 2026 21:20:00 +1000</pubDate>
             <link>https://portal.fornieriazar.com.au/</link>
@@ -31,70 +46,6 @@
 - Runs that stop reporting (for example if the Mac sleeps or Frankie quits mid-run) are now failed cleanly on the server so chat is told instead of waiting forever.
 ]]></description>
             <enclosure url="https://github.com/ImLukeF/Frankie-Mac-Releases/releases/download/v1.1.12/Frankie-1.1.12.zip" length="251348868" type="application/octet-stream" sparkle:edSignature="p3xodeMvOyA3PASb0XLGh0d1w7QKoYNx/RufFQLluPQ3f9V8oJ6DW6fElmvI8SKT8t8UTAaDkLPJ0jF5Y1LyBA=="/>
-        </item>
-        <item>
-            <title>1.1.11</title>
-            <pubDate>Sun, 10 Aug 2026 19:20:00 +1000</pubDate>
-            <link>https://portal.fornieriazar.com.au/</link>
-            <sparkle:version>13</sparkle:version>
-            <sparkle:shortVersionString>1.1.11</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[## What's new
-
-- Frankie chat can now read your recent Messages conversations and threads from this Mac when you ask — for example to pull today's prospecting texts into a workspace. Reading needs Full Disk Access: System Settings → Privacy & Security → Full Disk Access → enable Frankie.
-- Frankie chat can now start a Computer Run on this Mac. Every run needs your explicit approval in chat first, keeps the same 40-step / 8-minute limits and native refusals as a locally started run, and Pause and Stop stay available here.
-- The run result and anything it collected are posted back to the chat that asked for it.
-]]></description>
-            <enclosure url="https://github.com/ImLukeF/Frankie-Mac-Releases/releases/download/v1.1.11/Frankie-1.1.11.zip" length="251343096" type="application/octet-stream" sparkle:edSignature="kAfU36M/uFD6OOAWI9zhOU6YJlGhGny/Q8Y49QIwCZVtlqpsPQb/AxO1cUjTklsWHIdrfbLxC+WVyFXCEqB3AA=="/>
-        </item>
-        <item>
-            <title>1.1.10</title>
-            <pubDate>Mon, 10 Aug 2026 14:38:03 +1000</pubDate>
-            <link>https://portal.fornieriazar.com.au/</link>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>1.1.10</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[## What's new
-
-- Website-control requests from Frankie chat or native voice now open the built-in Chromium browser automatically.
-- Ordinary research and questions stay in chat, so the browser only appears when Frankie needs to interact with a website.
-- Browser tasks wait until Chromium is ready and keep Pause and Stop visible. Logins remain manual, and consequential website actions remain blocked.
-]]></description>
-            <enclosure url="https://github.com/ImLukeF/Frankie-Mac-Releases/releases/download/v1.1.10/Frankie-1.1.10.zip" length="251306753" type="application/octet-stream" sparkle:edSignature="mcW7i7lvdk/gLpwq23KoBrQxxSzzR9WOdt2eYJlzMKVr947/INSyUI+YF8EFFLKInFipPJItfI0TBPEzxOIcDQ=="/>
-        </item>
-        <item>
-            <title>1.1.9</title>
-            <pubDate>Mon, 10 Aug 2026 14:02:08 +1000</pubDate>
-            <link>https://portal.fornieriazar.com.au/</link>
-            <sparkle:version>11</sparkle:version>
-            <sparkle:shortVersionString>1.1.9</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[## What's new
-
-- Added a built-in Chromium browser workspace inside Frankie.
-- Frankie can navigate pages, read page structure, click, type, select, scroll, and wait while you watch and steer the run.
-- Browser runs keep Pause and Stop visible, cap repeated or overlong work, and refuse passwords, payments, verification fields, downloads, permissions, private-network addresses, CAPTCHAs, and consequential actions such as sending, buying, publishing, deleting, approving, or transferring.
-- The browser is bundled into the Mac app, so this update is substantially larger than earlier releases.
-]]></description>
-            <enclosure url="https://github.com/ImLukeF/Frankie-Mac-Releases/releases/download/v1.1.9/Frankie-1.1.9.zip" length="251294189" type="application/octet-stream" sparkle:edSignature="cMCIyEw2dT6pYr+9/W3hc3V7w3MudPzb1oZjrAAQccGtw4fOEWnPR+/QW5A/OkKYcQW66W7cN0dt8ctKikjWBQ=="/>
-        </item>
-        <item>
-            <title>1.1.8</title>
-            <pubDate>Thu, 06 Aug 2026 15:06:59 +1000</pubDate>
-            <link>https://portal.fornieriazar.com.au/</link>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>1.1.8</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[## What's new
-
-- **Computer Run** — Frankie can now work your Mac step by step instead of only pointing at the screen. Press **Cmd–Shift–R** (or *Run a computer task…* in the menu bar), say what you want done, and it opens apps, clicks, types, uses menus and search fields, scrolls, and collects what it finds. Live activity, steering, Pause and Stop stay on screen the whole time.
-- Runs only ever start when you start one, and they are capped at 40 steps and 8 minutes. Frankie stops itself if a step repeats without making progress.
-- Frankie refuses the consequential steps outright, no matter how a task is worded: no deleting or emptying the trash, buying, paying, sending, publishing, transferring, installing, restarting, signing out, or confirming a system prompt. It never types into password, card or verification fields, and it only opens public web addresses.
-- Hands-free conversation moved to **Cmd–Shift–H**. It was on Cmd–Shift–3, which macOS reserves for screenshots, so that shortcut never actually worked — the three quick **Control** taps still do.
-
-Computer Run needs Screen Recording and Accessibility permission the first time you use it, and a connected Codex provider in Frankie settings.
-]]></description>
-            <enclosure url="https://github.com/ImLukeF/Frankie-Mac-Releases/releases/download/v1.1.8/Frankie-1.1.8.zip" length="4690022" type="application/octet-stream" sparkle:edSignature="iDES2I5/l0qzvXAENzk5yjXY1jJVqQfZFE101sIUeEKWbfJuGmZ8VeS5LEkjXoJqEOj4G4cKc04jNgnasDSWAA=="/>
         </item>
     </channel>
 </rss>
