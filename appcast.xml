@@ -3,6 +3,22 @@
     <channel>
         <title>Frankie</title>
         <item>
+            <title>1.1.18</title>
+            <pubDate>Tue, 11 Aug 2026 15:22:11 +1000</pubDate>
+            <link>https://portal.fornieriazar.com.au/</link>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>1.1.18</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## What’s new
+
+- Frankie now works from normal chat. There is no Take Over button or separate Computer Run tab.
+- Requests such as “read this email” or “finish this” automatically include the current screen so Frankie can identify the job and choose Outlook, the browser, Portal, or Mac control itself.
+- If a connector cannot finish the task, such as opening an Outlook attachment, Frankie can continue through the Mac while keeping progress and results in the same conversation.
+- Mac work runs in the background. Pause and Stop appear only while work is active, and consequential actions still require approval.
+]]></description>
+            <enclosure url="https://github.com/ImLukeF/Frankie-Mac-Releases/releases/download/v1.1.18/Frankie-1.1.18.zip" length="251442737" type="application/octet-stream" sparkle:edSignature="EUxHieYWelenjxa7SjPej6+pcbK9RUvFtizC+NJDk+vEL6llbtqAvjX/I1JoWDO5WQdPbT/E72byrsv8JLwfBA=="/>
+        </item>
+        <item>
             <title>1.1.17</title>
             <pubDate>Tue, 11 Aug 2026 15:14:01 +1000</pubDate>
             <link>https://portal.fornieriazar.com.au/</link>
