@@ -3,6 +3,19 @@
     <channel>
         <title>Frankie</title>
         <item>
+            <title>1.1.17</title>
+            <pubDate>Tue, 11 Aug 2026 15:14:01 +1000</pubDate>
+            <link>https://portal.fornieriazar.com.au/</link>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>1.1.17</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## What’s new
+
+- The notch menu’s Home, Agents and Recent tabs now fit side by side without truncating or wrapping.
+]]></description>
+            <enclosure url="https://github.com/ImLukeF/Frankie-Mac-Releases/releases/download/v1.1.17/Frankie-1.1.17.zip" length="251416111" type="application/octet-stream" sparkle:edSignature="b9Y3500Erg//IJFwKdrCf6t60lJ2FhVh70vj2U5QEP4/N8+ZPEr8ox9b3j2ccDiQhLlRzdB82P2UCBIkS6PvBA=="/>
+        </item>
+        <item>
             <title>1.1.16</title>
             <pubDate>Tue, 11 Aug 2026 14:49:12 +1000</pubDate>
             <link>https://portal.fornieriazar.com.au/</link>
