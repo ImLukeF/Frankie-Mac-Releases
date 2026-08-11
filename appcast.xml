@@ -3,6 +3,24 @@
     <channel>
         <title>Frankie</title>
         <item>
+            <title>1.1.16</title>
+            <pubDate>Tue, 11 Aug 2026 14:49:12 +1000</pubDate>
+            <link>https://portal.fornieriazar.com.au/</link>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>1.1.16</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## What’s new
+
+- Added a dedicated Messages workspace for controlled marketing through Apple Messages, using the sender identity configured in the Mac Messages app.
+- Added recorded-consent, suppression and expiry checks, exact preview approval, and a complete per-recipient send history.
+- Clear opt-out replies now suppress future campaign sends automatically. Reply text stays on the Mac and is not uploaded.
+- Added the latest Frankie chat takeover controls for supervised work in other Mac apps.
+
+Before sending, set **Messages → Settings → iMessage → Start new conversations from** to the user’s mobile number and grant Frankie Automation and Full Disk Access.
+]]></description>
+            <enclosure url="https://github.com/ImLukeF/Frankie-Mac-Releases/releases/download/v1.1.16/Frankie-1.1.16.zip" length="251444536" type="application/octet-stream" sparkle:edSignature="ehOoEW5aLrAHqGYmhZjlc/hAPawt6t90LjCKyhYrBnTFTISIH9QwuJeGQ88RSnYU9KoMyVWg5vBjQ18leUlHBw=="/>
+        </item>
+        <item>
             <title>1.1.14</title>
             <pubDate>Tue, 11 Aug 2026 14:19:35 +1000</pubDate>
             <link>https://portal.fornieriazar.com.au/</link>
