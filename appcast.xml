@@ -3,96 +3,18 @@
     <channel>
         <title>Frankie</title>
         <item>
-            <title>1.1.18</title>
-            <pubDate>Tue, 11 Aug 2026 15:22:11 +1000</pubDate>
+            <title>1.1.19</title>
+            <pubDate>Wed, 12 Aug 2026 19:58:07 +1000</pubDate>
             <link>https://portal.fornieriazar.com.au/</link>
-            <sparkle:version>20</sparkle:version>
-            <sparkle:shortVersionString>1.1.18</sparkle:shortVersionString>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>1.1.19</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[## What’s new
+            <description sparkle:format="markdown"><![CDATA[# Frankie 1.1.19
 
-- Frankie now works from normal chat. There is no Take Over button or separate Computer Run tab.
-- Requests such as “read this email” or “finish this” automatically include the current screen so Frankie can identify the job and choose Outlook, the browser, Portal, or Mac control itself.
-- If a connector cannot finish the task, such as opening an Outlook attachment, Frankie can continue through the Mac while keeping progress and results in the same conversation.
-- Mac work runs in the background. Pause and Stop appear only while work is active, and consequential actions still require approval.
+- Requests that name your open Safari browser, current tab, or Mac now stay in the Work conversation and use Computer Run instead of opening isolated Browser Run.
+- The built-in browser now has a visible Close Browser button that stops any active browser run and closes the window.
 ]]></description>
-            <enclosure url="https://github.com/ImLukeF/Frankie-Mac-Releases/releases/download/v1.1.18/Frankie-1.1.18.zip" length="251442737" type="application/octet-stream" sparkle:edSignature="EUxHieYWelenjxa7SjPej6+pcbK9RUvFtizC+NJDk+vEL6llbtqAvjX/I1JoWDO5WQdPbT/E72byrsv8JLwfBA=="/>
-        </item>
-        <item>
-            <title>1.1.17</title>
-            <pubDate>Tue, 11 Aug 2026 15:14:01 +1000</pubDate>
-            <link>https://portal.fornieriazar.com.au/</link>
-            <sparkle:version>19</sparkle:version>
-            <sparkle:shortVersionString>1.1.17</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[## What’s new
-
-- The notch menu’s Home, Agents and Recent tabs now fit side by side without truncating or wrapping.
-]]></description>
-            <enclosure url="https://github.com/ImLukeF/Frankie-Mac-Releases/releases/download/v1.1.17/Frankie-1.1.17.zip" length="251416111" type="application/octet-stream" sparkle:edSignature="b9Y3500Erg//IJFwKdrCf6t60lJ2FhVh70vj2U5QEP4/N8+ZPEr8ox9b3j2ccDiQhLlRzdB82P2UCBIkS6PvBA=="/>
-        </item>
-        <item>
-            <title>1.1.16</title>
-            <pubDate>Tue, 11 Aug 2026 14:49:12 +1000</pubDate>
-            <link>https://portal.fornieriazar.com.au/</link>
-            <sparkle:version>18</sparkle:version>
-            <sparkle:shortVersionString>1.1.16</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[## What’s new
-
-- Added a dedicated Messages workspace for controlled marketing through Apple Messages, using the sender identity configured in the Mac Messages app.
-- Added recorded-consent, suppression and expiry checks, exact preview approval, and a complete per-recipient send history.
-- Clear opt-out replies now suppress future campaign sends automatically. Reply text stays on the Mac and is not uploaded.
-- Added the latest Frankie chat takeover controls for supervised work in other Mac apps.
-
-Before sending, set **Messages → Settings → iMessage → Start new conversations from** to the user’s mobile number and grant Frankie Automation and Full Disk Access.
-]]></description>
-            <enclosure url="https://github.com/ImLukeF/Frankie-Mac-Releases/releases/download/v1.1.16/Frankie-1.1.16.zip" length="251444536" type="application/octet-stream" sparkle:edSignature="ehOoEW5aLrAHqGYmhZjlc/hAPawt6t90LjCKyhYrBnTFTISIH9QwuJeGQ88RSnYU9KoMyVWg5vBjQ18leUlHBw=="/>
-        </item>
-        <item>
-            <title>1.1.14</title>
-            <pubDate>Tue, 11 Aug 2026 14:19:35 +1000</pubDate>
-            <link>https://portal.fornieriazar.com.au/</link>
-            <sparkle:version>16</sparkle:version>
-            <sparkle:shortVersionString>1.1.14</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Frankie 1.1.14
-
-- Adds **Take Over Current Task** to the menu bar and Frankie menu, with Command-Shift-T as a shortcut.
-- Frankie reads the active app, proposes the objective and next steps, and waits for confirmation before taking control.
-- Screen content is treated as evidence, not instructions. Frankie will not infer permission to send, publish, buy, delete, approve, or change security settings.
-]]></description>
-            <enclosure url="https://github.com/ImLukeF/Frankie-Mac-Releases/releases/download/v1.1.14/Frankie-1.1.14.zip" length="251487448" type="application/octet-stream" sparkle:edSignature="V7AyztWyphCAjVpqAzu45xcOpo0ARvRdjFnwLPNqmMkWWvm94N/J0QK9gYpgNq/bcDfAFX9+thNrSw4yjpf7Cw=="/>
-        </item>
-        <item>
-            <title>1.1.13</title>
-            <pubDate>Sun, 10 Aug 2026 21:20:00 +1000</pubDate>
-            <link>https://portal.fornieriazar.com.au/</link>
-            <sparkle:version>15</sparkle:version>
-            <sparkle:shortVersionString>1.1.13</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[## What's new
-
-- New Permissions window (menu bar → Permissions…) showing everything Frankie can use — Microphone, Screen Recording, Accessibility, Messages sending, and Full Disk Access — each with live status and a Grant access button.
-- Full Disk Access (needed for reading Messages history) never gets a macOS prompt, so its button takes you straight to the right System Settings pane; status flips live once you switch it on.
-- Statuses refresh every couple of seconds while the window is open, so granting in System Settings shows up immediately.
-]]></description>
-            <enclosure url="https://github.com/ImLukeF/Frankie-Mac-Releases/releases/download/v1.1.13/Frankie-1.1.13.zip" length="251378476" type="application/octet-stream" sparkle:edSignature="21Thh725MiObZX1iLxwmBZ0XqVwgcyzPWBYrlia+ovuz6Mvj5lp0XEm+XZXhsdD2iqh18V/JSs2sJ4pB6lIMDg=="/>
-        </item>
-        <item>
-            <title>1.1.12</title>
-            <pubDate>Sun, 10 Aug 2026 19:50:00 +1000</pubDate>
-            <link>https://portal.fornieriazar.com.au/</link>
-            <sparkle:version>14</sparkle:version>
-            <sparkle:shortVersionString>1.1.12</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[## What's new
-
-- Computer Runs can now be sized to the job: Frankie picks a step and time budget per run (up to 200 steps or 45 minutes, defaults unchanged at 40 steps / 8 minutes), and the approval message always states the limits you're agreeing to.
-- Ask for several things at once: multiple approved runs queue on this Mac and execute one after another, each posting its own result back to chat. A run you start locally keeps priority.
-- Runs that stop reporting (for example if the Mac sleeps or Frankie quits mid-run) are now failed cleanly on the server so chat is told instead of waiting forever.
-]]></description>
-            <enclosure url="https://github.com/ImLukeF/Frankie-Mac-Releases/releases/download/v1.1.12/Frankie-1.1.12.zip" length="251348868" type="application/octet-stream" sparkle:edSignature="p3xodeMvOyA3PASb0XLGh0d1w7QKoYNx/RufFQLluPQ3f9V8oJ6DW6fElmvI8SKT8t8UTAaDkLPJ0jF5Y1LyBA=="/>
+            <enclosure url="https://github.com/ImLukeF/Frankie-Mac-Releases/releases/download/v1.1.19/Frankie-1.1.19.zip" length="251460845" type="application/octet-stream" sparkle:edSignature="Lp1i+uoBl+p/DnnmmlvyRcxlKaUIl2S/7CHk8kqINBdIcpT3laawZVpyrVZZVZzvQ09FBApmEb95bRLxu3xXAw=="/>
         </item>
     </channel>
 </rss>
