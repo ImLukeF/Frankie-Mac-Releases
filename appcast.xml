@@ -3,18 +3,21 @@
     <channel>
         <title>Frankie</title>
         <item>
-            <title>1.1.19</title>
-            <pubDate>Wed, 12 Aug 2026 19:58:07 +1000</pubDate>
+            <title>1.1.20</title>
+            <pubDate>Thu, 13 Aug 2026 11:35:00 +1000</pubDate>
             <link>https://portal.fornieriazar.com.au/</link>
-            <sparkle:version>21</sparkle:version>
-            <sparkle:shortVersionString>1.1.19</sparkle:shortVersionString>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>1.1.20</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Frankie 1.1.19
+            <description sparkle:format="markdown"><![CDATA[# Frankie 1.1.20
 
-- Requests that name your open Safari browser, current tab, or Mac now stay in the Work conversation and use Computer Run instead of opening isolated Browser Run.
-- The built-in browser now has a visible Close Browser button that stops any active browser run and closes the window.
+- Computer Runs now pause for user-required prompts and resume with their existing history, records, and remaining budget.
+- Work conversations can stop, steer, or resume the active Mac run and automatically continue compound tasks after it finishes.
+- Collected records remain readable and can be saved into a requested Prospecting Workspace.
+- Loop detection now catches reworded repeats and two-step oscillation, and long pauses force a fresh screen plan.
+- Frankie now states clearly that native Safari control uses the foreground Mac; isolated Chromium remains the option for browser work that does not take the user's mouse and keyboard.
 ]]></description>
-            <enclosure url="https://github.com/ImLukeF/Frankie-Mac-Releases/releases/download/v1.1.19/Frankie-1.1.19.zip" length="251460845" type="application/octet-stream" sparkle:edSignature="Lp1i+uoBl+p/DnnmmlvyRcxlKaUIl2S/7CHk8kqINBdIcpT3laawZVpyrVZZVZzvQ09FBApmEb95bRLxu3xXAw=="/>
+            <enclosure url="https://github.com/ImLukeF/Frankie-Mac-Releases/releases/download/v1.1.20/Frankie-1.1.20.zip" length="251477369" type="application/octet-stream" sparkle:edSignature="bCR8IXNeew7M+ShzhjndvqAyF9Mr1ypCHGOaPeTnMrbVCD9AUYRvTz8ueM6SZ/bQqCYV9ISWrWocEv4JgHM+Dg=="/>
         </item>
     </channel>
 </rss>
