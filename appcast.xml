@@ -3,23 +3,14 @@
     <channel>
         <title>Frankie</title>
         <item>
-            <title>1.1.22</title>
-            <pubDate>Thu, 13 Aug 2026 14:06:55 +1000</pubDate>
+            <title>1.1.23</title>
+            <pubDate>Thu, 13 Aug 2026 16:43:43 +1000</pubDate>
             <link>https://portal.fornieriazar.com.au/</link>
-            <sparkle:version>24</sparkle:version>
-            <sparkle:shortVersionString>1.1.22</sparkle:shortVersionString>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>1.1.23</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Frankie 1.1.22
-
-- Makes Computer Run completion durable across restarts, offline periods, and account switches.
-- Prevents queued runs, stop/steer controls, and chat continuations from targeting or overwriting the wrong work.
-- Preserves up to 200 verified records with explicit truncation and incomplete-run reporting.
-- Shows Computer Run progress and completion live in the open Frankie conversation.
-- Clarifies that foreground Mac control owns the screen, mouse, and keyboard while it runs.
-
-Ask Frankie source: `e370d461bf3a056708309f2e60bb832cafd4386f`
-]]></description>
-            <enclosure url="https://github.com/ImLukeF/Frankie-Mac-Releases/releases/download/v1.1.22/Frankie-1.1.22.zip" length="251574520" type="application/octet-stream" sparkle:edSignature="evlXWGLLFhvJ63aV5dcMJsMa7CRDCJJt1uMFhb9XAiUFGu3Im2JYVfPlD8k2NPOG2qvIxrhxV1JmmeQNaGBGAw=="/>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/ImLukeF/Frankie-Mac-Releases/main/Frankie-1.1.23.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/ImLukeF/Frankie-Mac-Releases/releases/download/v1.1.23/Frankie-1.1.23.zip" length="251611554" type="application/octet-stream" sparkle:edSignature="XZb7lKXlemPDULZXNjdJlFJ7otsY3TbY8aZiR010qPV2GZrx3JhQaZ8F/WGli3DMbdCga46NoYRIAVP3Gnn5Ag=="/>
         </item>
     </channel>
 </rss>
