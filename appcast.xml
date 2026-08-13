@@ -3,21 +3,22 @@
     <channel>
         <title>Frankie</title>
         <item>
-            <title>1.1.20</title>
-            <pubDate>Thu, 13 Aug 2026 11:35:00 +1000</pubDate>
+            <title>1.1.21</title>
+            <pubDate>Thu, 13 Aug 2026 12:46:18 +1000</pubDate>
             <link>https://portal.fornieriazar.com.au/</link>
-            <sparkle:version>22</sparkle:version>
-            <sparkle:shortVersionString>1.1.20</sparkle:shortVersionString>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>1.1.21</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Frankie 1.1.20
+            <description sparkle:format="markdown"><![CDATA[# Frankie 1.1.21
 
-- Computer Runs now pause for user-required prompts and resume with their existing history, records, and remaining budget.
-- Work conversations can stop, steer, or resume the active Mac run and automatically continue compound tasks after it finishes.
-- Collected records remain readable and can be saved into a requested Prospecting Workspace.
-- Loop detection now catches reworded repeats and two-step oscillation, and long pauses force a fresh screen plan.
-- Frankie now states clearly that native Safari control uses the foreground Mac; isolated Chromium remains the option for browser work that does not take the user's mouse and keyboard.
+- Keeps an existing Messages sending permission when Messages.app is closed.
+- Adds a separate Open permissions action to the Messages readiness panel.
+- Refresh status now uses the latest Mac heartbeat and can unblock an existing preview.
+- Runs the macOS Automation permission probe off the main UI thread.
+
+Ask Frankie source: `d13682fe4ad335c6f38f5532424e0b891bf732c5`
 ]]></description>
-            <enclosure url="https://github.com/ImLukeF/Frankie-Mac-Releases/releases/download/v1.1.20/Frankie-1.1.20.zip" length="251477369" type="application/octet-stream" sparkle:edSignature="bCR8IXNeew7M+ShzhjndvqAyF9Mr1ypCHGOaPeTnMrbVCD9AUYRvTz8ueM6SZ/bQqCYV9ISWrWocEv4JgHM+Dg=="/>
+            <enclosure url="https://github.com/ImLukeF/Frankie-Mac-Releases/releases/download/v1.1.21/Frankie-1.1.21.zip" length="251480913" type="application/octet-stream" sparkle:edSignature="gOLj9mdT9KNsOv3bEf+l6aLEa+uwEkiA0oeyHI3lKBgcrndxD+p6k8QwPwnkCJqXU8b7FiQxGUleLSmxYce8Bg=="/>
         </item>
     </channel>
 </rss>
