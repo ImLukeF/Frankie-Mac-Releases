@@ -3,14 +3,14 @@
     <channel>
         <title>Frankie</title>
         <item>
-            <title>1.1.23</title>
-            <pubDate>Thu, 13 Aug 2026 16:43:43 +1000</pubDate>
+            <title>1.1.24</title>
+            <pubDate>Mon, 17 Aug 2026 14:39:29 +1000</pubDate>
             <link>https://portal.fornieriazar.com.au/</link>
-            <sparkle:version>25</sparkle:version>
-            <sparkle:shortVersionString>1.1.23</sparkle:shortVersionString>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>1.1.24</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/ImLukeF/Frankie-Mac-Releases/main/Frankie-1.1.23.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/ImLukeF/Frankie-Mac-Releases/releases/download/v1.1.23/Frankie-1.1.23.zip" length="251611554" type="application/octet-stream" sparkle:edSignature="XZb7lKXlemPDULZXNjdJlFJ7otsY3TbY8aZiR010qPV2GZrx3JhQaZ8F/WGli3DMbdCga46NoYRIAVP3Gnn5Ag=="/>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/ImLukeF/Frankie-Mac-Releases/main/Frankie-1.1.24.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/ImLukeF/Frankie-Mac-Releases/releases/download/v1.1.24/Frankie-1.1.24.zip" length="251628806" type="application/octet-stream" sparkle:edSignature="/OKny4e8BsIxCZ8I6+i2Z2uU7uWPyjdZbOgJO3beDpy5RDs6eIsdef3FSJy4oHfsQDnMbOUTvQN4/DhG/FuACA=="/>
         </item>
     </channel>
 </rss>
