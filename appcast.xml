@@ -3,14 +3,22 @@
     <channel>
         <title>Frankie</title>
         <item>
-            <title>1.1.24</title>
-            <pubDate>Mon, 17 Aug 2026 14:39:29 +1000</pubDate>
+            <title>1.1.25</title>
+            <pubDate>Tue, 18 Aug 2026 15:10:04 +1000</pubDate>
             <link>https://portal.fornieriazar.com.au/</link>
-            <sparkle:version>26</sparkle:version>
-            <sparkle:shortVersionString>1.1.24</sparkle:shortVersionString>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>1.1.25</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/ImLukeF/Frankie-Mac-Releases/main/Frankie-1.1.24.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/ImLukeF/Frankie-Mac-Releases/releases/download/v1.1.24/Frankie-1.1.24.zip" length="251628806" type="application/octet-stream" sparkle:edSignature="/OKny4e8BsIxCZ8I6+i2Z2uU7uWPyjdZbOgJO3beDpy5RDs6eIsdef3FSJy4oHfsQDnMbOUTvQN4/DhG/FuACA=="/>
+            <description sparkle:format="markdown"><![CDATA[# Frankie 1.1.25
+
+- Adds the clearer General and Agency themes, including the updated native Mac surfaces.
+- Makes vendor-report campaign totals increase automatically when this week's figures are entered.
+- Reduces idle background bridge polling while Frankie is waiting for Mac work.
+- Includes the latest Mail, Pages and layout refinements from AskFrankie.
+
+AskFrankie source: `3bb26226ce5437f52e452c7b2dd050e05a0e697d`
+]]></description>
+            <enclosure url="https://github.com/ImLukeF/Frankie-Mac-Releases/releases/download/v1.1.25/Frankie-1.1.25.zip" length="251628784" type="application/octet-stream" sparkle:edSignature="Lp4z1islppgsJhS7bMtOuXjcVtFm4m3N7Yo/A1r3lgLYhqEfzC2WQ9ADlbkFKgQyS0q4KwNGiaQkjdkQ8z3iCw=="/>
         </item>
     </channel>
 </rss>
