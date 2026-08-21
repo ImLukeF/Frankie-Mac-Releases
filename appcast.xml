@@ -3,22 +3,22 @@
     <channel>
         <title>Frankie</title>
         <item>
-            <title>1.1.25</title>
-            <pubDate>Tue, 18 Aug 2026 15:10:04 +1000</pubDate>
+            <title>1.1.26</title>
+            <pubDate>Fri, 21 Aug 2026 17:00:48 +1000</pubDate>
             <link>https://portal.fornieriazar.com.au/</link>
-            <sparkle:version>27</sparkle:version>
-            <sparkle:shortVersionString>1.1.25</sparkle:shortVersionString>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>1.1.26</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Frankie 1.1.25
+            <description sparkle:format="markdown"><![CDATA[# Frankie 1.1.26
 
-- Adds the clearer General and Agency themes, including the updated native Mac surfaces.
-- Makes vendor-report campaign totals increase automatically when this week's figures are entered.
-- Reduces idle background bridge polling while Frankie is waiting for Mac work.
-- Includes the latest Mail, Pages and layout refinements from AskFrankie.
+- Adds explicit whole-desktop Computer Run control when approved, while retaining one-window mode.
+- Lets Frankie move between apps and interact across multiple displays during desktop-scoped runs.
+- Adds capability negotiation so older Mac builds cannot claim whole-desktop work.
+- Includes the latest desktop-control safeguards and production refinements from AskFrankie.
 
-AskFrankie source: `3bb26226ce5437f52e452c7b2dd050e05a0e697d`
+AskFrankie source: `025a230814347ca71628c53f03422fd97fc4d6b8`
 ]]></description>
-            <enclosure url="https://github.com/ImLukeF/Frankie-Mac-Releases/releases/download/v1.1.25/Frankie-1.1.25.zip" length="251628784" type="application/octet-stream" sparkle:edSignature="Lp4z1islppgsJhS7bMtOuXjcVtFm4m3N7Yo/A1r3lgLYhqEfzC2WQ9ADlbkFKgQyS0q4KwNGiaQkjdkQ8z3iCw=="/>
+            <enclosure url="https://github.com/ImLukeF/Frankie-Mac-Releases/releases/download/v1.1.26/Frankie-1.1.26.zip" length="251641917" type="application/octet-stream" sparkle:edSignature="Rd6pcgteaibNUNWTtdlZHw6S0Pg84qzDMPzAmz4ck14O1+sLL0cPVWoKd3V15JoHoSU4m8uwl0ecVqHNl8juDQ=="/>
         </item>
     </channel>
 </rss>
