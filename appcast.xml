@@ -3,22 +3,21 @@
     <channel>
         <title>Frankie</title>
         <item>
-            <title>1.1.26</title>
-            <pubDate>Fri, 21 Aug 2026 17:00:48 +1000</pubDate>
+            <title>1.1.27</title>
+            <pubDate>Tue, 25 Aug 2026 15:48:23 +1000</pubDate>
             <link>https://portal.fornieriazar.com.au/</link>
-            <sparkle:version>28</sparkle:version>
-            <sparkle:shortVersionString>1.1.26</sparkle:shortVersionString>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>1.1.27</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Frankie 1.1.26
+            <description sparkle:format="markdown"><![CDATA[# Frankie 1.1.27
 
-- Adds explicit whole-desktop Computer Run control when approved, while retaining one-window mode.
-- Lets Frankie move between apps and interact across multiple displays during desktop-scoped runs.
-- Adds capability negotiation so older Mac builds cannot claim whole-desktop work.
-- Includes the latest desktop-control safeguards and production refinements from AskFrankie.
+- Cuts idle Mac polling from every 5 seconds to every 30 seconds.
+- Keeps active work responsive while reducing unnecessary Convex function calls.
+- Includes the latest Frankie call-history and conversation tools.
 
-AskFrankie source: `025a230814347ca71628c53f03422fd97fc4d6b8`
+Ask Frankie source: `d7ca8714aef2b37f9c2581b82dd245f7f78f8445`
 ]]></description>
-            <enclosure url="https://github.com/ImLukeF/Frankie-Mac-Releases/releases/download/v1.1.26/Frankie-1.1.26.zip" length="251641917" type="application/octet-stream" sparkle:edSignature="Rd6pcgteaibNUNWTtdlZHw6S0Pg84qzDMPzAmz4ck14O1+sLL0cPVWoKd3V15JoHoSU4m8uwl0ecVqHNl8juDQ=="/>
+            <enclosure url="https://github.com/ImLukeF/Frankie-Mac-Releases/releases/download/v1.1.27/Frankie-1.1.27.zip" length="251643317" type="application/octet-stream" sparkle:edSignature="+cYpFUtsHLt44zNR31p5bKnrfe617DcpeoxWvp4L26C7TuSGE9cvOkTi/YB3LaWYzUtyRBmFDKCnRGVgzP1YAQ=="/>
         </item>
     </channel>
 </rss>
